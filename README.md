@@ -83,9 +83,10 @@
 <p><img align="right" width="480" src="https://github-readme-stats.vercel.app/api?username=salman-farcy&show_icons=true&locale=en" alt="salman-farcy" /></p>
 
 
+<a href="https://github.com/salman-farcy">
+<img align="right"  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=salman-farcy&theme=2077" height="180em" />
+</div>
 
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<div align="center">
