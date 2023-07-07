@@ -68,7 +68,7 @@
 
 - 🌱 I’m currently learning **React, Node.js**
 
-- 💬 Ask me about **htm, css, JavaScript**
+- 💬 Ask me about **HTML, CSS, JavaScript**
 
 - 📫 How to reach me **salmanfarcy253@gmail.com**
 
@@ -77,8 +77,11 @@
 - 👨‍💻 Hobbies **I like to travel**
 #
 
-<p><img  align="right" width="480" src="https://github-readme-streak-stats.herokuapp.com/?user=salman-farcy&" alt="salman-farcy" /></p>
-<p>&nbsp;<img align="left" width="460" src="https://github-readme-stats.vercel.app/api?username=salman-farcy&show_icons=true&locale=en" alt="salman-farcy" /></p>
+
+<p><img  align="right"  width="480" src="https://github-readme-streak-stats.herokuapp.com/?user=salman-farcy&" alt="salman-farcy" /></p>
+
+<p><img align="right" width="480" src="https://github-readme-stats.vercel.app/api?username=salman-farcy&show_icons=true&locale=en" alt="salman-farcy" /></p>
+
 
 
 
